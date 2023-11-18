@@ -1,0 +1,15 @@
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.csproj.AssemblyReference.cache
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.AssemblyInfoInputs.cache
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.AssemblyInfo.cs
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.csproj.CoreCompileInputs.cache
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/bin/Debug/net6.0/Telephone
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/bin/Debug/net6.0/Telephone.deps.json
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/bin/Debug/net6.0/Telephone.runtimeconfig.json
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/bin/Debug/net6.0/Telephone.dll
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/bin/Debug/net6.0/Telephone.pdb
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.dll
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/refint/Telephone.dll
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.pdb
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/Telephone.genruntimeconfig.cache
+/Users/nisa.nn/Desktop/Homework.Collections/Telephone/Telephone/obj/Debug/net6.0/ref/Telephone.dll
